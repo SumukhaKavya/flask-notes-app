@@ -20,7 +20,6 @@ A simple Flask application for managing notes. Users can add notes through a web
 - git clone https://github.com/SumukhaKavya/flask-notes-app.git
 - cd flask-notes-app
 - Install dependencies
-- pip install -r requirements.txt
   
 ### Usage
 
